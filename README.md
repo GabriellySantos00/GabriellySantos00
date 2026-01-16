@@ -15,7 +15,7 @@ Acredito que boas ideias nascem quando lógica e emoção trabalham em harmonia 
 
 ### Objetivo
 
-Criar experiências digitais mais humanas e acessíveis, explorando o equilíbrio entre função e sentimento — ampliando minha capacidade de resolver problemas com criatividade e propósito.
+Criar experiências digitais mais humanas e acessíveis, explorando o equilíbrio entre função e sentimento, ampliando minha capacidade de resolver problemas com criatividade e propósito.
 
 ---
 
