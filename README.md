@@ -1,12 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+a+Gabrielly+Oliveira!;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
-</p>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=20&pause=1200&color=721C24&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." /> </div>
 
 Estou iniciando meus estudos em **UX/UI Design** e atualmente curso **Desenvolvimento de Sistemas**, com o propósito de unir arte, sensibilidade e tecnologia para criar experiências digitais que envolvam, comuniquem e inspirem.
 
 Acredito que boas ideias nascem quando lógica e emoção trabalham em harmonia — por isso, busco desenvolver projetos que despertem atenção, significado e conexão.. 
 
---- 
+<div align="center">
+
+<a href="https://gsantos-dev.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-721C24?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gabrielly--oliveira/">
+  <img src="https://img.shields.io/badge/LinkedIn-721C24?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gabby28.ap@gmail.com">
+  <img src="https://img.shields.io/badge/Email-721C24?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ## Tecnologias e Ferramentas em Aprendizado
 
