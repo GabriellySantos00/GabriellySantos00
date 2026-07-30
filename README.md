@@ -19,4 +19,9 @@ Criar experiências digitais mais humanas e acessíveis, explorando o equilíbri
 
 ---
 
-> “A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.” – Albert Einstein
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabriellySantos00/GabriellySantos00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabriellySantos00/GabriellySantos00/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabriellySantos00/GabriellySantos00/output/github-contribution-grid-snake.svg">
+</picture>
