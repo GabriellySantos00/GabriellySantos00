@@ -9,13 +9,15 @@ Acredito que boas ideias nascem quando lógica e emoção trabalham em harmonia 
 ## Onde me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielly--oliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabrielly%20Oliveira-2a209c?style=for-the-badge&logo=linkedin&logoColor=white" >
+    <img src="https://img.shields.io/badge/LinkedIn-Gabrielly%20Oliveira-2A219B?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://gsantos-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-gsantos%20Dev-4a0293?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfólio-gsantos%20Dev-40097E?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+
   <a href="mailto:gabby28.ap@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabby28.ap%40gmail.com-3d0063?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-gabby28.ap%40gmail.com-3C0061?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 ## Tecnologias e Ferramentas em Aprendizado
