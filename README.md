@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=20&pause=1200&color=721C24&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=20&pause=1200&color=d99f9f&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." /> </div>
 
 Estou iniciando meus estudos em **UX/UI Design** e atualmente curso **Desenvolvimento de Sistemas**, com o propósito de unir arte, sensibilidade e tecnologia para criar experiências digitais que envolvam, comuniquem e inspirem.
 
