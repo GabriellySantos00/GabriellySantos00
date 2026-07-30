@@ -1,4 +1,6 @@
-# Seja bem-vindo(a) 🌙
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+a+Gabrielly+Oliveira!;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+</p>
 
 Estou iniciando meus estudos em **UX/UI Design** e atualmente curso **Desenvolvimento de Sistemas**, com o propósito de unir arte, sensibilidade e tecnologia para criar experiências digitais que envolvam, comuniquem e inspirem.
 
