@@ -7,11 +7,17 @@ Estou iniciando meus estudos em **UX/UI Design** e atualmente curso **Desenvolvi
 Acredito que boas ideias nascem quando lógica e emoção trabalham em harmonia — por isso, busco desenvolver projetos que despertem atenção, significado e conexão.. 
 
 ## Onde me encontrar
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Gabrielly%20Oliveira&color=2a209c&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly--oliveira/)
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-Gabrielly%20Dev-4a0293?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gsantos-dev.vercel.app)
-
-[![Email](https://img.shields.io/badge/Email-gabby28.ap%40gmail.com-3d0063?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabby28.ap@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielly--oliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabrielly%20Oliveira-2a209c?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="https://gsantos-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-gsantos%20Dev-4a0293?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="mailto:gabby28.ap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabby28.ap%40gmail.com-3d0063?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 ## Tecnologias e Ferramentas em Aprendizado
 
 - Python · JavaScript · Java · HTML/CSS  
