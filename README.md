@@ -1,5 +1,10 @@
-<img align="right" src="./assets/cat.jpg" width="220"/>
+<div align="center">
 
+<img src="./assets/cat2.jpg" width="1100px" />
+
+</div>
+
+<br><br>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=26&pause=1200&color=A19AEB&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." />
