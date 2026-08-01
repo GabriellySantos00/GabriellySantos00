@@ -1,8 +1,8 @@
-<img align="right" src="./assets/cat.jpg" width="228"/>
+<img align="right" src="./assets/cat.jpg" width="220"/>
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Michroma&size=24&pause=1200&color=A19AEB&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." />
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&size=26&pause=1200&color=A19AEB&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." />
 
 
 **`Desenvolvedora Front-End em Formação`**
@@ -10,12 +10,11 @@
 
 <br>
 
-<div align="justify">
   Atualmente curso o Técnico em Desenvolvimento de Sistemas e tenho me dedicado aos estudos de desenvolvimento Front-End. Busco aprimorar meus conhecimentos por meio de projetos práticos, sempre procurando aprender novas tecnologias e desenvolver soluções criativas e funcionais.
 
 Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para desenvolvimento, com o objetivo de evoluir constantemente e construir experiências digitais de qualidade.
 
-</div>
+
 
 <br>
 
@@ -69,11 +68,11 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 
 <div align="left">
 
-<img width="37%" src="https://github-readme-stats-gabrielly.vercel.app/api?username=GabriellySantos00&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&icon_color=7C5CFF&text_color=FFFFFF&rank_icon=github"/>
+<img width="400px" src="https://github-readme-stats-gabrielly.vercel.app/api?username=GabriellySantos00&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&icon_color=7C5CFF&text_color=FFFFFF&rank_icon=github"/>
 
-<img width="33%" src="https://github-readme-stats-gabrielly.vercel.app/api/top-langs/?username=GabriellySantos00&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&text_color=FFFFFF"/>
+<img width="360px" src="https://github-readme-stats-gabrielly.vercel.app/api/top-langs/?username=GabriellySantos00&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&text_color=FFFFFF"/>
+
 </div>
-
 #
 <div align="center">
 
