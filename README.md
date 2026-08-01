@@ -23,15 +23,15 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 <br>
 
 <a href="https://www.linkedin.com/in/gabrielly--oliveira/">
-<img src="https://img.shields.io/badge/LinkedIn-211B33?style=for-the-badge&logo=linkedin&logoColor=A19AEB"/>
+<img src="https://img.shields.io/badge/LinkedIn-3B3A63?style=for-the-badge&logo=linkedin&logoColor=A19AEB"/>
 </a>
 
 <a href="https://gsantos-dev.vercel.app">
-<img src="https://img.shields.io/badge/Portfólio-211B33?style=for-the-badge&logo=vercel&logoColor=A19AEB"/>
+<img src="https://img.shields.io/badge/Portfólio-513A78?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:gabby28.ap@gmail.com">
-<img src="https://img.shields.io/badge/Email-211B33?style=for-the-badge&logo=gmail&logoColor=A19AEB"/>
+<img src="https://img.shields.io/badge/Email-422C52?style=for-the-badge&logo=gmail&logoColor=E7D7FF"/>
 </a>
 
 </div>
