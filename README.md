@@ -1,6 +1,6 @@
 <img align="right" src="./assets/cat.jpg" width="220"/>
 
-<div align="left">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=26&pause=1200&color=A19AEB&width=520&lines=Ol%C3%A1%2C+eu+sou+a+Gabrielly+Oliveira." />
 
@@ -35,10 +35,12 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 
 #
 
+
+
+
+<div align="center">
+
 ### My Stack
-
-
-<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
 <img width="8" />
@@ -64,16 +66,20 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 
 
 
-### Git Hub Stats
 
-<div align="left">
+
+<div align="center">
+
+### Git Hub Stats
 
 <img width="400px" src="https://github-readme-stats-gabrielly.vercel.app/api?username=GabriellySantos00&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&icon_color=7C5CFF&text_color=FFFFFF&rank_icon=github"/>
 
 <img width="360px" src="https://github-readme-stats-gabrielly.vercel.app/api/top-langs/?username=GabriellySantos00&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&text_color=FFFFFF"/>
 
 </div>
-#
+
+##
+
 <div align="center">
 
 <picture>
