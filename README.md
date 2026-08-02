@@ -43,7 +43,7 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 
 ### My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,sass,figma,vscode" height="38" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,sass,figma,vscode" height="30" />
   
 </div>
 
