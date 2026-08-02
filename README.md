@@ -11,7 +11,6 @@
 
 **`Desenvolvedora Front-End em Formação`**
 
-
 <br>
 
   Atualmente curso o Técnico em Desenvolvimento de Sistemas e tenho me dedicado aos estudos de desenvolvimento Front-End. Busco aprimorar meus conhecimentos por meio de projetos práticos, sempre procurando aprender novas tecnologias e desenvolver soluções criativas e funcionais.
@@ -44,17 +43,10 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 
 ### My Stack
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,sass,figma,vscode" height="38" />
   
 </div>
+
 
 
 <div align="center">
