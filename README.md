@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cat3.jpg" width="500px" />
+<img src="./assets/cat3.jpg" width="450px" />
 
 </div>
 
