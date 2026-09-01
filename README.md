@@ -51,11 +51,9 @@ Atualmente estudo HTML, CSS, JavaScript, React, Python e outras ferramentas para
 
 <div align="center">
 
-### Git Hub Stats
+###  GitHub Stats
 
-<img width="400px" src="https://github-readme-stats-gabrielly.vercel.app/api?username=GabriellySantos00&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&icon_color=7C5CFF&text_color=FFFFFF&rank_icon=github"/>
-
-<img width="360px" src="https://github-readme-stats-gabrielly.vercel.app/api/top-langs/?username=GabriellySantos00&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=A19AEB&text_color=FFFFFF"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=GabriellySantos00&theme=tokyonight&animated=true"/> </div>
 
 </div>
 
